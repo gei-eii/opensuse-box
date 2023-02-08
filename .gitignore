@@ -1,0 +1,5 @@
+**/.DS_Store
+**/*.yml~
+README.local
+variables.auto.pkrvars.hcl
+output-opensuse_leap/

@@ -1,0 +1,5 @@
+Push a new tag to start the action that builds an OpenSUSE Leap image with Packer and uploads it to Vagrant Cloud
+
+Use:
+  git tag v#.#.#
+  git push --tags
